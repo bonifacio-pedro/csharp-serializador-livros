@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfLivros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Livros>
+    <nome>HOBBIT</nome>
+    <genero>FANTASIA</genero>
+    <nota>10</nota>
+  </Livros>
+  <Livros>
+    <nome>DOM CASMURRO</nome>
+    <genero>ROMANEC</genero>
+    <nota>9</nota>
+  </Livros>
+  <Livros>
+    <nome>NARNIA</nome>
+    <genero>10</genero>
+    <nota>8</nota>
+  </Livros>
+</ArrayOfLivros>

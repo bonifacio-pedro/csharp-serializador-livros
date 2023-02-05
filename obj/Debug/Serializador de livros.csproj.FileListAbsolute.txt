@@ -1,0 +1,8 @@
+D:\Pedro freela\Curso C#\Seção 3\Aula56\Serializador de livros\Serializador de livros\bin\Debug\Serializador de livros.exe.config
+D:\Pedro freela\Curso C#\Seção 3\Aula56\Serializador de livros\Serializador de livros\bin\Debug\Serializador de livros.exe
+D:\Pedro freela\Curso C#\Seção 3\Aula56\Serializador de livros\Serializador de livros\bin\Debug\Serializador de livros.pdb
+D:\Pedro freela\Curso C#\Seção 3\Aula56\Serializador de livros\Serializador de livros\obj\Debug\Serializador de livros.csproj.AssemblyReference.cache
+D:\Pedro freela\Curso C#\Seção 3\Aula56\Serializador de livros\Serializador de livros\obj\Debug\Serializador de livros.csproj.SuggestedBindingRedirects.cache
+D:\Pedro freela\Curso C#\Seção 3\Aula56\Serializador de livros\Serializador de livros\obj\Debug\Serializador de livros.csproj.CoreCompileInputs.cache
+D:\Pedro freela\Curso C#\Seção 3\Aula56\Serializador de livros\Serializador de livros\obj\Debug\Serializador de livros.exe
+D:\Pedro freela\Curso C#\Seção 3\Aula56\Serializador de livros\Serializador de livros\obj\Debug\Serializador de livros.pdb
